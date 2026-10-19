@@ -1,0 +1,7 @@
+{
+  "name": "Bomome.Telemetry",
+  "rootNamespace": "Bomome.Telemetry",
+  "references": [],
+  "autoReferenced": true,
+  "noEngineReferences": true
+}
